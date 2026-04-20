@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="todo.service.TaskServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-27T19:50:08.787Z" hostname="DESKTOP-DHIEOVR" time="1.239">
+  <properties/>
+  <testcase name="deleteTask_WhenTaskExists_ShouldDeleteTask()" classname="todo.service.TaskServiceTest" time="1.186"/>
+  <testcase name="getAllTasks_ShouldReturnTaskList()" classname="todo.service.TaskServiceTest" time="0.011"/>
+  <testcase name="updateTask_WhenTaskExists_ShouldUpdateTask()" classname="todo.service.TaskServiceTest" time="0.023"/>
+  <testcase name="createTask_WithValidData_ShouldCreateTask()" classname="todo.service.TaskServiceTest" time="0.012"/>
+  <testcase name="getTasksByUser_ShouldReturnUserTasks()" classname="todo.service.TaskServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

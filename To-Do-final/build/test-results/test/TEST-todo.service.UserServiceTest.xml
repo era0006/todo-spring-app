@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="todo.service.UserServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-12-27T19:50:10.034Z" hostname="DESKTOP-DHIEOVR" time="0.177">
+  <properties/>
+  <testcase name="getAllUsers_ShouldReturnUserList()" classname="todo.service.UserServiceTest" time="0.104"/>
+  <testcase name="deleteUser_WhenUserNotExists_ShouldThrowException()" classname="todo.service.UserServiceTest" time="0.018"/>
+  <testcase name="deleteUser_WhenUserExists_ShouldDeleteUser()" classname="todo.service.UserServiceTest" time="0.006"/>
+  <testcase name="getUserById_WhenUserExists_ShouldReturnUser()" classname="todo.service.UserServiceTest" time="0.014"/>
+  <testcase name="createUser_WithValidData_ShouldCreateUser()" classname="todo.service.UserServiceTest" time="0.008"/>
+  <testcase name="getUserById_WhenUserNotExists_ShouldReturnNull()" classname="todo.service.UserServiceTest" time="0.004"/>
+  <testcase name="createUser_WithExistingUsername_ShouldThrowException()" classname="todo.service.UserServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
